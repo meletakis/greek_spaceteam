@@ -1,0 +1,7 @@
+Set %@ to %d
+Set %@ to Maximum
+Set %@ to Full Power
+Increase %@ to %d
+Decrease %@ to %d
+ASTEROID! (everybody shake)
+WORMHOLE! (everybody flip)
